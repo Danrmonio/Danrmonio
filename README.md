@@ -1,7 +1,6 @@
 ### Hi there, fellow! 👋
 
-
-Here are some ideas to get you started:
+Here are some informations about me:
 
 - 🔭 I’m currently working at Hangar 42
 - 🌱 I’m currently learning HTML, CSS, Javascript and Ruby
