@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Angular.js & Java**
 
-- 💬 Ask me about **Anything and I will answer you soon as possible!**
+- 💬 Ask me about **anything and I will answer you soon as possible!**
 
-- ⚡ Fun fact **I'm a Choy Lay Fut Black Belt**
+- ⚡ Fun fact **I'm a Choy Lay Fut Kung Fu Black Belt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
